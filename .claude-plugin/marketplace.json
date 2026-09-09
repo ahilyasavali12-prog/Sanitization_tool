@@ -1,7 +1,7 @@
 {
   "name": "agentic-firewall-marketplace",
   "owner": {
-    "name": "YOUR_NAME_OR_GITHUB_USERNAME"
+    "name": "ahilyasavali12-prog"
   },
   "metadata": {
     "description": "Local prompt-injection and jailbreak firewall for Claude Code"
