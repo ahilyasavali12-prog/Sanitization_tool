@@ -1,0 +1,8 @@
+[
+  {"name": "get_weather", "description": "Fetches the current weather for a given city.",
+   "parameters": {"properties": {"city": {"type": "string", "description": "Name of the city"}}}},
+  {"name": "summarize_document", "description": "Summarizes a text document into a short paragraph.",
+   "parameters": {"properties": {"text": {"type": "string", "description": "The document text to summarize"}}}},
+  {"name": "translate_text", "description": "Translates text from one language to another.",
+   "parameters": {"properties": {"text": {"type": "string", "description": "Text to translate"}, "target_language": {"type": "string", "description": "Language to translate into"}}}}
+]
