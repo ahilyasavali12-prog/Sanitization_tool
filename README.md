@@ -278,8 +278,8 @@ MIT — see [LICENSE](LICENSE).
 
 ### Overall system architecture
 
-![Overall system architecture](assets/architecture-diagram.jpg)
+![Overall system architecture](assets/System%20Architecture.jpg)
 
 ### Data flow across all four components
 
-![Data flow diagram](assets/dataflow-diagram.jpg)
+![Data flow diagram](assets/DF_diagram.jpg)
