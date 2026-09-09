@@ -1,0 +1,7 @@
+{
+  "name": "agentic-firewall",
+  "description": "Local prompt-injection & jailbreak firewall for Claude Code. Regex + ML classifier + vector DB scanning every prompt and Bash tool call. 100% free, runs on localhost.",
+  "version": "1.0.0",
+  "author": { "name": "your-name" },
+  "homepage": "https://github.com/youruser/agentic-firewall-plugin"
+}

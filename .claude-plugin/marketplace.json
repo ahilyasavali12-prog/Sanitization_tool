@@ -1,0 +1,16 @@
+{
+  "name": "agentic-firewall-marketplace",
+  "owner": {
+    "name": "YOUR_NAME_OR_GITHUB_USERNAME"
+  },
+  "metadata": {
+    "description": "Local prompt-injection and jailbreak firewall for Claude Code"
+  },
+  "plugins": [
+    {
+      "name": "agentic-firewall",
+      "source": "./",
+      "description": "Local prompt-injection & jailbreak firewall. Regex + ML classifier + vector DB scanning every prompt and Bash tool call."
+    }
+  ]
+}
