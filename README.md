@@ -271,3 +271,15 @@ sanitization-tool/
 ## License
 
 MIT — see [LICENSE](LICENSE).
+
+---
+
+## Diagrams
+
+### Overall system architecture
+
+![Overall system architecture](assets/architecture-diagram.jpg)
+
+### Data flow across all four components
+
+![Data flow diagram](assets/dataflow-diagram.jpg)
